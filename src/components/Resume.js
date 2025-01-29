@@ -1,6 +1,6 @@
 export default function Resume(){
 const config={
-    link:'https://drive.google.com/file/d/15TNVE6J7tXqQv1MH1x7DFLm6n4KZNZ0M/view?usp=sharing'
+    link:'https://drive.google.com/file/d/18HC6h9Mck3PuJ-AdCWICd0WN6kA6N4jY/view?usp=sharing'
 }
 
     return<section className="pt-4 pb-4 text-white text-bold">
